@@ -8,7 +8,7 @@ public class UnitTest1
         Assert.True(true);
     }
     [Fact]
-    public void FalseisFalse()
+    public void FalseisFalseandStringisEmpty()
     {
         // this was stupid 
         Assert.False(false);
